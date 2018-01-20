@@ -1,0 +1,16 @@
+{
+  "name": "chicktech-robotics-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "README.md",
+  "scripts": {
+    "start": "reveal-md -w  --theme night --highlightTheme hybrid --port 1337 -i custom.js --css styles.css README.md",
+    "build": "reveal-md  --theme night --highlightTheme hybrid -i custom.js --css styles.css README.md -static dist"
+  },
+  "keywords": [],
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^0.4.0"
+  }
+}
