@@ -534,6 +534,7 @@ Squeeze wire closed with pliers to ensure a secure connection
 * Open the Arduino IDE
 * Download the [CTRobotSimple](CTRobotSimple.ino) example file
 * Open the file inside the Arduino IDE
+* Download the [TwoMotorGearbox.zip](TwoMotorGearbox-20180117T085230Z-001.zip) library file
 
 ---
 
