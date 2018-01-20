@@ -477,3 +477,84 @@ Squeeze wire closed with pliers to ensure a secure connection
 * Present at Showcase
 
 ---
+
+# What is code?
+
+<div class="dark-bg">
+  <ul>
+    <li>Define and describe computer code</li>
+    <li>Explain why computer code is required</li>
+    <li>List at least 3 computer coding languages</li>
+  </ul>
+</div>
+
+----
+
+## Define and describe computer code
+
+* Spend 2 minutes searching the web and reading about what is code.
+* Write down in your own words "What is code?"
+
+----
+
+# Define and describe computer code
+
+----
+
+## Explain why computer code is required
+
+* Computers (MicroControllers) only understand electricity
+* 0s and 1s (binary)
+  * 0 - no electricity (off)
+  * 1 - electricity (on)
+* Computer code can be written and understood by humans
+  * Might look foreign, but its a lot easier to learn and code than just 1s and 0s
+* The computer code that we write is translated into 0s and 1s so computers can understand it.
+
+----
+
+## List at least 3 computer coding languages (programming languages)
+
+* Spend 2 minutes searching the web and reading about what coding (programming) languages there are.
+* List at least 3 coding languages you find
+
+----
+
+# List at least 3 computer coding languages
+
+----
+
+## We will use C++ to program the Arduino!
+
+---
+
+# Program the Robot
+### (Write some code!)
+
+* Open the Arduino IDE
+* Download the [CTRobotSimple](CTRobotSimple.ino) example file
+* Open the file inside the Arduino IDE
+
+---
+
+```cpp
+CCTTwoMotorControl commandList[] = {
+  CCTTwoMotorControl(100),
+  CCTTwoMotorControl(500, 'F', 250, 'F', 250),  // move forward .5 seconds
+  CCTTwoMotorControl(100),
+  CCTTwoMotorControl(500, 'R', 250, 'R', 250),  // move backward .5 seconds
+  CCTTwoMotorControl(100),
+  CCTTwoMotorControl(500, 'F', 250, 'R', 250),  // turn left .5 seconds
+  CCTTwoMotorControl(100),
+  CCTTwoMotorControl(500, 'R', 250, 'F', 250),  // turn right .5 seconds
+  CCTTwoMotorControl(100),
+  CCTTwoMotorControl(2000, 'F', 250, 'F', 250),
+  CCTTwoMotorControl(100),
+  CCTTwoMotorControl(2000, 'R', 250, 'R', 250),
+  CCTTwoMotorControl(100),
+  CCTTwoMotorControl(4000, 'F', 250, 'F', 100),
+  CCTTwoMotorControl(100)
+};
+```
+
+---
