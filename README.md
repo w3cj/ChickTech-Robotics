@@ -468,13 +468,10 @@ Squeeze wire closed with pliers to ensure a secure connection
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/167945eofe3pcg9z9y61.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-# Day 2
+# CODING
 
 * What is code?
 * Program Robot
-* Customize/Decorate Robot
-* (Stretch) Add sensor/LEDs
-* Present at Showcase
 
 ---
 
@@ -548,14 +545,78 @@ CCTTwoMotorControl commandList[] = {
   CCTTwoMotorControl(500, 'F', 250, 'R', 250),  // turn left .5 seconds
   CCTTwoMotorControl(100),
   CCTTwoMotorControl(500, 'R', 250, 'F', 250),  // turn right .5 seconds
-  CCTTwoMotorControl(100),
-  CCTTwoMotorControl(2000, 'F', 250, 'F', 250),
-  CCTTwoMotorControl(100),
-  CCTTwoMotorControl(2000, 'R', 250, 'R', 250),
-  CCTTwoMotorControl(100),
-  CCTTwoMotorControl(4000, 'F', 250, 'F', 100),
   CCTTwoMotorControl(100)
 };
 ```
 
 ---
+
+<img class="slide-img" src="https://chicktech.org/images/logo/logotype.svg" />
+## Robotics Workshop - Day 2
+
+---
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/guwb10mfddctfvwioaex.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+# Agenda
+
+<div class="dark-bg">
+  <ul>
+    <li>ICE BREAKER</li>
+    <li>Complete a challenge</li>
+    <li>Customize/Decorate Robot</li>
+    <li>Prepare for Showcase (1:00pm)</li>
+    <li>Present at Showcase (2:30pm)</li>
+  </ul>
+</div>
+
+---
+
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/krqazc6jzd3b2893tefg.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+# ICE BREAKER
+
+----
+
+## ICE BREAKER
+
+* Pair up!
+* Take 2 minutes to introduce yourself to your pair
+  * What's your name?
+  * One thing about you (hobby, favorite food, favorite color etc.)
+* We will go around and YOU will introduce your partner
+
+---
+
+# CHALLENGES
+
+* Program the robot to go in a circle
+* Program the robot do a figure 8
+* Setup an obstacle course (with cardboard boxes) and make the robot avoid all the obstacles
+* Group up with others and perform a synchronized robot dance
+* Program the robot to do anything else you can think of!
+
+---
+
+## Customize and Decorate Robot
+
+* Use duct tape on any part of the robot
+* Use foam sheets, cardboard and felt to create a different chassis shape
+* Options:
+  * Add eyes or antennas with pipe cleaners to make the robot look alive
+  * Make the robot look like a real robot (mars rover, autonomous car, humanoid etc.)
+
+<img class="slide-img med-img" src="https://lh3.googleusercontent.com/ao3qp40oTjH6DuvfYrfeuxQbZG_VTBZvvtKpuviDaLLJSQ3JfW5tYW1DlTmuEuJnjLwsYKMmEzgOW4B130CYVYwSwYfPQd585oYEN6Qwax3rTQKHulIFriHJUF03WWsGeoINtNSCwjg" />
+<img class="slide-img med-img" src="https://lh5.googleusercontent.com/b7Uv3F1MQ02SpTQrIbLlcMgBTlzTERhttlpX5dnBhHQxlf9OKszPx_Aj7E-35IKkunp-y9CHfbsNU9CGu52QXIpdg3U7jBgP3NKEGDe7wf4Fpl5PHI210LzKkOgmoRWiaKlRQgQb7ns" />
+
+---
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/ts1p4x68ezcwbofpgaw2.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+# Showcase!
+
+---
+
+<img class="slide-img" src="https://chicktech.org/images/logo/logotype.svg" />
+## Thanks!
