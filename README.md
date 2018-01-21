@@ -565,6 +565,7 @@ CCTTwoMotorControl commandList[] = {
     <li>ICE BREAKER</li>
     <li>Complete a challenge</li>
     <li>Customize/Decorate Robot</li>
+    <li>LUNCH (12:00pm)</li>
     <li>Prepare for Showcase (1:00pm)</li>
     <li>Present at Showcase (2:30pm)</li>
   </ul>
