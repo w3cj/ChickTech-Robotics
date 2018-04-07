@@ -323,6 +323,7 @@ An arduino is a MicroController! There are many other types of MicroControllers,
     <li>Define and describe computer code</li>
     <li>Explain why computer code is required</li>
     <li>List at least 3 computer coding languages</li>
+    <li>List at least 5 things computer coding is used for</li>
   </ul>
 </div>
 
@@ -363,6 +364,17 @@ An arduino is a MicroController! There are many other types of MicroControllers,
 ----
 
 ## We will use C++ to program the Arduino!
+
+----
+
+## List at least 5 things computer coding is used for
+
+* Spend 2 minutes searching the web and reading about what coding (programming) languages are used for.
+* List at least 5 things you find
+
+----
+
+# List at least 5 things computer coding is used for
 
 ---
 
