@@ -1,14 +1,15 @@
 <template>
   <section class="row">
-    <div class="col col-sm-2">
+    <div class="col-12 col-md-2">
       <ul class="list-group">
         <router-link
+          :key="index"
           :to="'/?step=' + index"
           class="list-group-item"
           v-for="(step, index) in steps">{{index + 1}}: {{step.title}}</router-link>
       </ul>
     </div>
-    <div class="col col-sm-10">
+    <div class="col-12 col-md-10">
       <div class="card">
         <h1 class="card-header">Step {{+currentIndex + 1}}: {{currentStep.title}}</h1>
         <div class="card-body">
@@ -16,8 +17,9 @@
           <router-link v-if="currentIndex < steps.length - 1" :to="'/?step=' + (+currentIndex + 1)" class="btn btn-info float-right">Next Step</router-link>
         </div>
         <img v-if="currentStep.image" class="step-image" :src="currentStep.image">
+        <video v-if="currentStep.video" class="step-image" :src="currentStep.video" autoplay loop></video>
       </div>
-      <div class="card" v-for="(part, index) in currentStep.parts">
+      <div class="card" v-for="(part, index) in currentStep.parts" :key="index">
         <div class="card-body">
           <h1 class="card-text">{{index + 1}}: {{part.text}}</h1>
           <img v-if="part.image" class="step-image" :src="part.image">

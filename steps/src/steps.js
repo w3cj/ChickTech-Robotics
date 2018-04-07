@@ -1,5 +1,10 @@
 export default [
   {
+    title: 'Build an Arduino Powered Robot',
+    video: 'https://i.imgur.com/bgnKn8f.mp4',
+    steps: []
+  },
+  {
     title: 'Attach Wires',
     parts: [{
       text: 'Create a hook/bend in the end of the wire with pliers',
@@ -149,5 +154,10 @@ export default [
       text: 'It Should look like this: (your wire colors may be different)',
       image: 'https://i.imgur.com/pvVeFO8.jpg'
     }]
+  },
+  {
+    title: 'Robot Complete!',
+    video: 'https://i.imgur.com/bgnKn8f.mp4',
+    parts: []
   }
 ];

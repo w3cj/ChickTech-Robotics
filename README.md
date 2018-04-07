@@ -45,7 +45,7 @@
 * Graduated from Louisiana Tech University
   * BA Computer Science, Minor in Mathematics
 * Worked as a System Administrator, QA Analyst, Software Engineer
-* Currently a Lead Instructor at Galvanize
+* I was a Lead Instructor here at Galvanize in the Web Development Immersive Program
 * I like skateboarding and making music
 
 ---
@@ -57,7 +57,7 @@
 
 ----
 
-# Day 1
+# Part 1
 
 * Ice Breaker
 * What is a Robot?
@@ -68,13 +68,12 @@
 
 ----
 
-# Day 2
+# Part 2
 
 * What is code?
-* Program Robot
-* Customize/Decorate Robot
-* (Stretch) Add sensor/LEDs
-* Present at Showcase
+* Basics of programming the robot with C++
+* Arduino IDE Setup
+* Showcase
 
 ---
 
@@ -270,7 +269,7 @@ An arduino is a MicroController! There are many other types of MicroControllers,
 
 ---
 
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/1732iv96pd4mp6zx6xwa.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+<!-- .slide: data-background-video="https://i.imgur.com/bgnKn8f.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 # ROBOT COMPLETE!
 
@@ -306,11 +305,14 @@ An arduino is a MicroController! There are many other types of MicroControllers,
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/167945eofe3pcg9z9y61.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-# CODING
-
-* What is code?
-* Basics of programming the robot with C++
-* Arduino IDE Setup
+<div class="dark-bg">
+  <h1>Coding</h1>
+  <ul>
+    <li>What is code?</li>
+    <li>Basics of programming the robot with C++</li>
+    <li>Arduino IDE Setup</li>
+  </ul>
+</div>
 
 ---
 
@@ -364,6 +366,17 @@ An arduino is a MicroController! There are many other types of MicroControllers,
 
 ---
 
+# Arduino IDE Setup
+
+1. Open the Arduino IDE
+1. Go to Tools->Board and make sure "Arduino Uno" is selected.
+1. Download the [CTRobotSimple](CTRobotSimple.ino) file
+1. Go to File->Open and open the CTRobotSimple.ino file.
+1. Download the [TwoMotorGearbox.zip](TwoMotorGearbox-20180117T085230Z-001.zip) library file
+1. Go to Sketch->Import Library->Add Library and select the TwoMotorGearbox.zip library file
+
+---
+
 # Basics of Programming the Robot with C++
 
 ---
@@ -389,6 +402,8 @@ Anything between
 ### Control the robot
 
 ```cpp
+// move forward .5 seconds
+CCTTwoMotorControl(500, 'F', 250, 'F', 250),
 CCTTwoMotorControl(
   500, // time in milliseconds
   'F', // direction M1A - can be 'F' or 'R'
@@ -427,17 +442,6 @@ CCTTwoMotorControl commandList[] = {
   CCTTwoMotorControl(100)
 };
 ```
-
----
-
-# Arduino IDE Setup
-
-1. Open the Arduino IDE
-1. Go to Tools->Board and make sure "Arduino Uno" is selected.
-1. Download the [CTRobotSimple](CTRobotSimple.ino) file
-1. Go to File->Open and open the CTRobotSimple.ino file.
-1. Download the [TwoMotorGearbox.zip](TwoMotorGearbox-20180117T085230Z-001.zip) library file
-1. Go to Sketch->Import Library->Add Library and select the TwoMotorGearbox.zip library file
 
 ---
 
