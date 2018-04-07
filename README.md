@@ -266,169 +266,7 @@ An arduino is a MicroController! There are many other types of MicroControllers,
 
 ---
 
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/h1pnkz1q4exz9wy0d70a.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-# Solder Motors
-
-----
-
-## Attach Wires
-
-Create a hook/bend in the end of the wire with pliers
-
-<img class="slide-img small-img" src="https://lh5.googleusercontent.com/9P2bGm2-SCwHww_OiTzx3d1GSOBunLT-RWjhXRPHlu8ukA1skMuByMY8pSM6jcewqAGhRQyah5qPhGfkuxTCZ3EKzm-FMcFqKrTfr0fk0gzuAtLCVDNhlR4XyRofaEzd7xF1erOC-Y4" />
-
-Hook the wire into the motor terminal
-
-<img class="slide-img small-img" src="https://lh6.googleusercontent.com/H64ONUu4pvG72qD8znW-90kyyGnuUYI_nN5hXP1glgeOOIplyBsvdwLxKyTiPn764KbyzBaFHy2Qf_iUlvPbxPewhJCMA2Qjxn-DN6ypFAISK8FGPxlV9U6DiK28UIlMA79SP64as28" />
-
-Squeeze wire closed with pliers to ensure a secure connection
-
-<img class="slide-img small-img" src="https://lh4.googleusercontent.com/Addvond040p10yPliuVE0Hi_nh09lBzm_QbyPVkVMgcCGY52vrsUBhglr3Fqiy-bDOfH4xBM3UCGuB6mcZHLrDkEa0IPtR2b-OORjbS8i5ph8-eXpg99RUalBVYBXtS1XLALF71PyPM"/>
-
-----
-
-## Solder Wires to Motors
-
-* Place the soldering iron on the wire/terminal to heat it up
-  * Don't hold for too long, the plastic will melt! (Avoid touching the plastic with the iron)
-* Apply the solder
-* Remove soldering iron and check that you have a secure connection
-
-<img class="slide-img" src="https://lh6.googleusercontent.com/TxIFaq1vXj71akqe5BzwjaY62y4oAyXGZlXqfS1POfcqwQpVCu9Ga_CyjPNRWPdWs-lS2s-tCuxm7C62MNH2CljvsE9Oob5cxYQYSVL7h5gD-iTDvSqqTFIVZwrdx9AvlosaunC9nFs"/>
-
----
-
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/jjihphnwquisxx0xyxtg.phone.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-# Assemble Robot
-
-----
-
-## Assemble Robot
-
-1. Attach pivot wheel
-2. Attach Motors
-3. Attach battery pack
-4. Attach Motor Controller to Arduino
-5. Attach Arduino to robot
-8. Connect battery wires
-9. Connect motor wires
-
----
-
-### Attach pivot wheel
-
-<img class="slide-img med-img" src="images/01.jpg" />
-<img class="slide-img med-img" src="images/02.jpg" />
-<img class="slide-img med-img" src="images/03.jpg" />
-<img class="slide-img med-img" src="images/04.jpg" />
-<img class="slide-img med-img" src="images/05.jpg" />
-<img class="slide-img med-img" src="images/06.jpg" />
-
----
-
-### Attach Motors
-
-<img class="slide-img med-img" src="images/07.jpg" />
-<img class="slide-img med-img" src="images/08.jpg" />
-
-* The wires should be facing the pivot wheel
-
-<img class="slide-img med-img" src="images/09.jpg" />
-<img class="slide-img med-img" src="images/10.jpg" />
-
-* Leave the bottom screw sticking out
-
-----
-
-* Hold the nut in place and screw the screw in
-
-<img class="slide-img med-img" src="images/11.jpg" />
-<img class="slide-img med-img" src="images/12.jpg" />
-
-* Attach the wheel to the outside of the motor
-* Attach the plastic disk to the inside
-
-<img class="slide-img med-img" src="images/13.jpg" />
-<img class="slide-img med-img" src="images/14.jpg" />
-<img class="slide-img med-img" src="images/15.jpg" />
-
-* Make sure the wheel and disk can spin freely
-
----
-
-### Attach Battery Pack
-
-<img class="slide-img med-img" src="images/16.jpg" />
-<img class="slide-img med-img" src="images/17.jpg" />
-
-* Place some foam tape the the back of the battery Pack
-* Place the batter pack at the back of the robot (above the pivot wheel)
-* Make sure the wires are facing towards the front of the robot.
-
----
-
-### Attach Motor Controller to Arduino
-
-* Place a piece of electrical tape on the USB connector
-
-<img class="slide-img med-img" src="https://lh3.googleusercontent.com/bbFZw9EWJZGl7rgFO_5d05BbagYKGce9vK7x7Rq4lXfQfV9QmHhxnmXWZLoaQtHCUZ2S2pOONBh1pIi3ieeWdTRM9uDsdiiepFB6KKT5qolHQHUiA0VlvbRr9xGI5mOanFm3OTrYR6M" />
-<img class="slide-img med-img" src="https://lh3.googleusercontent.com/WAwA4YCGnl6uOqKPk_IIFj9kaboETQ7cSHPFSU-0haEzAq8XHhUcI29-LhFYSH0EL4w0MSGue3KV4bg5rQM1UdH5spOiohkQrxZNzkEjACBqv99Qpsw-ULbP04Jbi0B--IOND5l9OAY" />
-
-* Make sure it is lined up correctly
-* Slowly press down! Do not bend the pins!
-
-<img class="slide-img med-img" src="https://lh5.googleusercontent.com/FkJjQaOzcLcBx6E5OEiddNcnBoqf2RTN-uuaPz5RfDYoUf5SPAImNrYOSJ0hUUyEwV7hEPe_fafoSvRuDTGuxXchbp5AwQSebi6PnD-LeMAa_LfiXoOQR6zPqElFkM0aXl9FTWw5D7E" />
-<img class="slide-img med-img" src="https://lh4.googleusercontent.com/fpsLybFaizV7UBKbNTMSxm2qWZBXiImSSvdiAnwmc_2NdY7XQ74Iae7SlS1ZsZgDmZ_7KXjjtp_SR3AddZFFnOafi0kf9URrELW4F8gV7t7j1d1FK_Yf35iisM-y3827C0mtS96WDBo" />
-
----
-
-### Attach Arduino to Robot
-
-* Place foam tape underneath the Arduino
-* Place the arduino at the front of the robot
-
-<img class="slide-img med-img" src="images/18.jpg" />
-<img class="slide-img med-img" src="images/19.jpg" />
-
-* Make sure the USB port is facing outwards
-
----
-
-### Connect Battery Wires
-
-* Loosen the screw to the connector marked M+
-* Insert the red wire from the battery pack into the connector and tighten the screw
-* Repeat with the black wire (connect to GND)
-
-<img class="slide-img med-img" src="images/20.jpg" />
-<img class="slide-img med-img" src="images/21.jpg" />
-<img class="slide-img med-img" src="images/22.jpg" />
-
-----
-
-* Insert 4 batteries into the battery holder
-* If the green light turns on its working!!!
-* Remove one of the batteries for now
-
-<img class="slide-img med-img" src="images/23.jpg" />
-<img class="slide-img med-img" src="images/24.jpg" />
-
----
-
-### Connect Motor Wires
-
-* The two wires from the left motor will connect to M1A and M1B
-* The two wires from the right motor will connect to M2A and M2B
-
-<img class="slide-img med-img" src="https://lh4.googleusercontent.com/n3NF6VkGcqE7XsW2YQZ8g3y5uniXaZbIoos4CUw1l8PS_1A-eqYkiiymG_peyz4La-Z98ceOSAUFGgCgWAzzNBIz2mhgm0qSHAXbsbEuus7UDxWx9B2qNaPkjIlbx1J3l_mSXuKJqMI" />
-<img class="slide-img med-img" src="images/25.jpg" />
-
-* Left motor top wire connects to M1A
-* Left motor bottom wire connects to M1B
-* Right motor top wire connects to M2A
-* Right motor bottom wire connects to M2B
+<iframe style="width:100%;height:700px" src="https://chicktech-robotics.now.sh/steps#/" />
 
 ---
 
@@ -471,7 +309,8 @@ Squeeze wire closed with pliers to ensure a secure connection
 # CODING
 
 * What is code?
-* Program Robot
+* Basics of programming the robot with C++
+* Arduino IDE Setup
 
 ---
 
@@ -525,15 +364,55 @@ Squeeze wire closed with pliers to ensure a secure connection
 
 ---
 
-# Program the Robot
-### (Write some code!)
-
-* Open the Arduino IDE
-* Download the [CTRobotSimple](CTRobotSimple.ino) example file
-* Open the file inside the Arduino IDE
-* Download the [TwoMotorGearbox.zip](TwoMotorGearbox-20180117T085230Z-001.zip) library file
+# Basics of Programming the Robot with C++
 
 ---
+
+### C++ comments
+
+```cpp
+// This is a comment
+// this compiler ignores things that begin with //
+// Programmers use these to leave themselves
+// and others notes about the code
+```
+
+```cpp
+/*
+This is also a comment.
+Anything between
+*/
+```
+
+---
+
+### Control the robot
+
+```cpp
+CCTTwoMotorControl(
+  500, // time in milliseconds
+  'F', // direction M1A - can be 'F' or 'R'
+  250, // speed M2A - maximum value is 255
+  'F', // direction M1B - can be 'F' or 'R'
+  250 // speed M2B - maximum value is 255
+)
+```
+
+---
+
+### Sleep 😴 💤
+
+This should be after every command, including the last one.
+
+```cpp
+CCTTwoMotorControl(100) // sleep for 0.1 seconds
+```
+
+---
+
+### Create a list of Commands
+
+By changing the commands and sequence of commands, you can make the robot do anything you want!
 
 ```cpp
 CCTTwoMotorControl commandList[] = {
@@ -551,42 +430,24 @@ CCTTwoMotorControl commandList[] = {
 
 ---
 
-<img class="slide-img" src="https://chicktech.org/images/logo/logotype.svg" />
-## Robotics Workshop - Day 2
+# Arduino IDE Setup
+
+1. Open the Arduino IDE
+1. Go to Tools->Board and make sure "Arduino Uno" is selected.
+1. Download the [CTRobotSimple](CTRobotSimple.ino) file
+1. Go to File->Open and open the CTRobotSimple.ino file.
+1. Download the [TwoMotorGearbox.zip](TwoMotorGearbox-20180117T085230Z-001.zip) library file
+1. Go to Sketch->Import Library->Add Library and select the TwoMotorGearbox.zip library file
 
 ---
 
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/guwb10mfddctfvwioaex.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+## Sending the program to the robot
 
-# Agenda
-
-<div class="dark-bg">
-  <ul>
-    <li>ICE BREAKER</li>
-    <li>Complete a challenge</li>
-    <li>Customize/Decorate Robot</li>
-    <li>LUNCH (12:00pm)</li>
-    <li>Prepare for Showcase (1:00pm)</li>
-    <li>Present at Showcase (2:30pm)</li>
-  </ul>
-</div>
-
----
-
-
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/krqazc6jzd3b2893tefg.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-# ICE BREAKER
-
-----
-
-## ICE BREAKER
-
-* Pair up!
-* Take 2 minutes to introduce yourself to your pair
-  * What's your name?
-  * One thing about you (hobby, favorite food, favorite color etc.)
-* We will go around and YOU will introduce your partner
+1. Plug the USB cable into your Arduino and into the computer.
+1. Click on the check mark ✅ "Verify" button in the top left of the Arduino window.
+1. Check to make sure it says "Done compiling" at the bottom of the window.
+1. Click the arrow "Upload" ➡️ button next to the Verify button. This will load the program onto the robot.
+1. If there are errors, go to Tools->Serial Port and choose a different serial port.
 
 ---
 
