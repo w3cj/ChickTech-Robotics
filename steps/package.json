@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
-    "build": "vue-cli-service build && mv dist/* ../dist/steps/",
+    "build": "vue-cli-service build && rm -r ../dist/steps && mv dist ../dist/steps",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -14,7 +14,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.6",
-    "@vue/cli-service": "^3.0.0-beta.6",
+    "@vue/cli-service": "^4.1.2",
     "vue-template-compiler": "^2.5.13"
   },
   "babel": {
