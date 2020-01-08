@@ -44,8 +44,8 @@
 * Your facilitator!
 * Graduated from Louisiana Tech University
   * BA Computer Science, Minor in Mathematics
-* Worked as a System Administrator, QA Analyst, Software Engineer
-* I was a Lead Instructor here at Galvanize in the Web Development Immersive Program
+* Worked as a System Administrator, QA Analyst, Software Engineer, Full Stack Instructor
+* I am currently the Chief Full Stack Engineer at 303 Software
 * I like skateboarding and making music
 
 ---
