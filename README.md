@@ -384,7 +384,7 @@ An arduino is a MicroController! There are many other types of MicroControllers,
 1. Go to Tools->Board and make sure "Arduino Uno" is selected.
 1. Download the [CTRobotSimple](CTRobotSimple.ino) file
 1. Go to File->Open and open the CTRobotSimple.ino file.
-1. Download the [TwoMotorGearbox.zip](TwoMotorGearbox-20180117T085230Z-001.zip) library file
+1. Download the [TwoMotorGearbox.zip](TwoMotorGearbox-01192020.zip) library file
 1. Go to Sketch->Import Library->Add Library and select the TwoMotorGearbox.zip library file
 
 ---
@@ -429,8 +429,6 @@ CCTTwoMotorControl(
 
 ### Sleep 😴 💤
 
-This should be after every command, including the last one.
-
 ```cpp
 CCTTwoMotorControl(100) // sleep for 0.1 seconds
 ```
@@ -443,15 +441,10 @@ By changing the commands and sequence of commands, you can make the robot do any
 
 ```cpp
 CCTTwoMotorControl commandList[] = {
-  CCTTwoMotorControl(100),
   CCTTwoMotorControl(500, 'F', 250, 'F', 250),  // move forward .5 seconds
-  CCTTwoMotorControl(100),
   CCTTwoMotorControl(500, 'R', 250, 'R', 250),  // move backward .5 seconds
-  CCTTwoMotorControl(100),
   CCTTwoMotorControl(500, 'F', 250, 'R', 250),  // turn left .5 seconds
-  CCTTwoMotorControl(100),
-  CCTTwoMotorControl(500, 'R', 250, 'F', 250),  // turn right .5 seconds
-  CCTTwoMotorControl(100)
+  CCTTwoMotorControl(500, 'R', 250, 'F', 250)  // turn right .5 seconds
 };
 ```
 
