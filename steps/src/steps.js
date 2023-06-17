@@ -8,18 +8,18 @@ export default [
     title: 'Attach Wires',
     parts: [{
       text: 'Create a hook/bend in the end of the wire with pliers',
-      image: 'https://lh5.googleusercontent.com/9P2bGm2-SCwHww_OiTzx3d1GSOBunLT-RWjhXRPHlu8ukA1skMuByMY8pSM6jcewqAGhRQyah5qPhGfkuxTCZ3EKzm-FMcFqKrTfr0fk0gzuAtLCVDNhlR4XyRofaEzd7xF1erOC-Y4'
+      image: './external/image10.jpg'
     }, {
       text: 'Hook the wire into the motor terminal',
-      image: 'https://lh6.googleusercontent.com/H64ONUu4pvG72qD8znW-90kyyGnuUYI_nN5hXP1glgeOOIplyBsvdwLxKyTiPn764KbyzBaFHy2Qf_iUlvPbxPewhJCMA2Qjxn-DN6ypFAISK8FGPxlV9U6DiK28UIlMA79SP64as28'
+      image: './external/image11.jpg'
     }, {
       text: 'Squeeze wire closed with pliers to ensure a secure connection',
-      image: 'https://lh4.googleusercontent.com/Addvond040p10yPliuVE0Hi_nh09lBzm_QbyPVkVMgcCGY52vrsUBhglr3Fqiy-bDOfH4xBM3UCGuB6mcZHLrDkEa0IPtR2b-OORjbS8i5ph8-eXpg99RUalBVYBXtS1XLALF71PyPM'
+      image: './external/image12.jpg'
     }]
   },
   {
     title: 'Solder Wires to Motors',
-    image: 'https://lh6.googleusercontent.com/TxIFaq1vXj71akqe5BzwjaY62y4oAyXGZlXqfS1POfcqwQpVCu9Ga_CyjPNRWPdWs-lS2s-tCuxm7C62MNH2CljvsE9Oob5cxYQYSVL7h5gD-iTDvSqqTFIVZwrdx9AvlosaunC9nFs',
+    image: './external/image30.png',
     parts: [{
       text: 'Place the soldering iron on the wire/terminal to heat it up'
     }, {
@@ -99,16 +99,16 @@ export default [
     title: 'Attach Motor Controller to Arduino',
     parts: [{
       text: 'Place a piece of electrical tape on the USB connector',
-      image: 'https://lh3.googleusercontent.com/bbFZw9EWJZGl7rgFO_5d05BbagYKGce9vK7x7Rq4lXfQfV9QmHhxnmXWZLoaQtHCUZ2S2pOONBh1pIi3ieeWdTRM9uDsdiiepFB6KKT5qolHQHUiA0VlvbRr9xGI5mOanFm3OTrYR6M'
+      image: './external/image18.jpg'
     }, {
       text: 'Make sure the USB opening is not obstructed.',
-      image: 'https://lh3.googleusercontent.com/WAwA4YCGnl6uOqKPk_IIFj9kaboETQ7cSHPFSU-0haEzAq8XHhUcI29-LhFYSH0EL4w0MSGue3KV4bg5rQM1UdH5spOiohkQrxZNzkEjACBqv99Qpsw-ULbP04Jbi0B--IOND5l9OAY'
+      image: './external/image20.jpg'
     }, {
       text: 'Make sure the motor controller is lined up correctly.',
-      image: 'https://lh5.googleusercontent.com/FkJjQaOzcLcBx6E5OEiddNcnBoqf2RTN-uuaPz5RfDYoUf5SPAImNrYOSJ0hUUyEwV7hEPe_fafoSvRuDTGuxXchbp5AwQSebi6PnD-LeMAa_LfiXoOQR6zPqElFkM0aXl9FTWw5D7E'
+      image: './external/image27.jpg'
     }, {
       text: 'SLOWLY PRESS DOWN! Do not bend the pins.',
-      image: 'https://lh4.googleusercontent.com/fpsLybFaizV7UBKbNTMSxm2qWZBXiImSSvdiAnwmc_2NdY7XQ74Iae7SlS1ZsZgDmZ_7KXjjtp_SR3AddZFFnOafi0kf9URrELW4F8gV7t7j1d1FK_Yf35iisM-y3827C0mtS96WDBo'
+      image: './external/image29.jpg'
     }]
   }, {
     title: 'Attach Arduino to Robot',
@@ -141,7 +141,7 @@ export default [
     }]
   }, {
     title: 'Connect Motor Wires',
-    image: 'https://lh4.googleusercontent.com/n3NF6VkGcqE7XsW2YQZ8g3y5uniXaZbIoos4CUw1l8PS_1A-eqYkiiymG_peyz4La-Z98ceOSAUFGgCgWAzzNBIz2mhgm0qSHAXbsbEuus7UDxWx9B2qNaPkjIlbx1J3l_mSXuKJqMI',
+    image: './external/image28.png',
     parts: [{
       text: 'Left motor top wire connects to M1A'
     }, {

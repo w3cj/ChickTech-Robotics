@@ -44,9 +44,21 @@
 * Your facilitator!
 * Graduated from Louisiana Tech University
   * BA Computer Science, Minor in Mathematics
-* Worked as a System Administrator, QA Analyst, Software Engineer, Full Stack Instructor
-* I am currently the Chief Full Stack Engineer at 303 Software
-* I like skateboarding and making music
+* Worked as a System Administrator, QA Analyst, Software Engineer, Full Stack Instructor and Content Creator
+* Currently I live stream myself teaching how to code on Twitch and YouTube
+  * https://www.twitch.tv/codinggarden/
+  * https://www.youtube.com/@CodingGarden
+* I like programming, skateboarding and making music
+
+----
+
+# Cass
+
+* Graduated from University of Northern Colorado
+  * Bachelor of Music Education
+* Worked as an Elementary School Teacher, Software Engineer, Front-end Engineering Instructor
+* Currently a Front-End Engineering Instructor at Turing School of Software and Design
+* I like making art, making music and hanging out with my dog
 
 ---
 
@@ -256,8 +268,6 @@ An arduino is a MicroController! There are many other types of MicroControllers,
 * Never leave flammable items (such as paper) near your soldering iron.
 
 [How to Solder Safely](https://www.youtube.com/watch?v=3ht_JmfaCNM)
-
-[Safe Soldering Checklist](http://www.dummies.com/education/science/safe-soldering-checklist/)
 
 ---
 
@@ -478,8 +488,8 @@ CCTTwoMotorControl commandList[] = {
   * Add eyes or antennas with pipe cleaners to make the robot look alive
   * Make the robot look like a real robot (mars rover, autonomous car, humanoid etc.)
 
-<img class="slide-img med-img" src="https://lh3.googleusercontent.com/ao3qp40oTjH6DuvfYrfeuxQbZG_VTBZvvtKpuviDaLLJSQ3JfW5tYW1DlTmuEuJnjLwsYKMmEzgOW4B130CYVYwSwYfPQd585oYEN6Qwax3rTQKHulIFriHJUF03WWsGeoINtNSCwjg" />
-<img class="slide-img med-img" src="https://lh5.googleusercontent.com/b7Uv3F1MQ02SpTQrIbLlcMgBTlzTERhttlpX5dnBhHQxlf9OKszPx_Aj7E-35IKkunp-y9CHfbsNU9CGu52QXIpdg3U7jBgP3NKEGDe7wf4Fpl5PHI210LzKkOgmoRWiaKlRQgQb7ns" />
+<img class="slide-img med-img" src="./images/image01.jpg" />
+<img class="slide-img med-img" src="./images/image03.jpg" />
 
 ---
 

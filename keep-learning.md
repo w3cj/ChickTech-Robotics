@@ -1,6 +1,6 @@
 # Arduino/Electronics Resources
 
-## [Arduino Project Hub](https://create.arduino.cc/projecthub)
+## [Arduino Project Hub](https://projecthub.arduino.cc/)
 
 Links to many different kinds of arduino projects!
 
@@ -67,18 +67,6 @@ Want to learn how to code? Have a great idea? Don't be shy. Develop it.
 
 At Girl Develop It, our goal is to empower and assist women interested in getting into and advancing in the tech industry.
 
-## [Learn to Code Colorado](https://www.meetup.com/learn-to-code-colorado/)
-
-Have you ever thought about learning to code but weren't sure how to get started? Let's meet and explore the fundamentals of programming, including how to write code as well as how to develop an attitude that will enable us to quickly learn new technologies.
-
-## [Learn to Code at the Denver Library](https://www.meetup.com/learntocodedenver/)
-
-Learn to Code at the Denver Library is a weekly hang out for anyone interested in computer programming and technology in general. We have a variety of talks and study sessions planned for the upcoming months so come hungry to learn something new. No prior knowledge nor future commitment is necessary, just a desire to learn and have a bit of fun doing it.
-
-## [Free Code Camp - Denver Study Group](https://www.meetup.com/Free-Code-Camp-Denver-Study-Group/)
-
-Do YOU want to become a web developer? Anyone can do it and this study group is a perfect way to get started and make it happen! (No experience necessary!)
-
 ---
 
 # Maker Spaces
@@ -89,10 +77,6 @@ the denver hackerspace
 
 Our Mission: To create and sustain a local, community driven, shared space, that enables education, experimentation, and collaboration, by applying the spirit of DIY to science, technology, engineering, and art.
 
-## [The Lab Denver](http://thelabdenver.org/)
-
-The Lab is a fully functional Makerspace located in Denver, Colorado. Our goal is to promote creativity and ingenuity in Denver through teaching and open source building. We have a long list of beginner projects that anyone can build, just to see what building cool stuff with your own hands is all about. We also have a variety of free classes we teach on a regular basis, in order to introduce people to what's available in today's tech heavy world. Once you get a taste of what's possible, hopefully you'll join us.
-
 ## [TinkerMill](http://www.tinkermill.org/)
 
 TinkerMill is the largest makerspace / hackerspace in Colorado and the surrounding Rocky Mountain region. It's a place where like-minded people interested in art, technology, science and business can collaborate on creative projects, share tools. learn, teach, make things, prototype new ideas, products and services, start ventures, meet new people and share knowledge.
@@ -100,10 +84,6 @@ TinkerMill is the largest makerspace / hackerspace in Colorado and the surroundi
 ## [Mindcraft Makerspace](https://mindcraftmakerspace.com/)
 
 MindCraft Makerspace is a digital fabrication lab developed as a collaborative studio space for creative and inventive endeavors.  Our combination of labs, workshop, and classrooms make it easy and fun for hands-on, “let’s make this” kind of learning.
-
-## [Colorado Maker Club](http://coloradomakerhub.org/)
-
-Colorado has a vibrant set of spaces to encourage making from independent makerspaces, school spaces, library studios and makerspaces, creative districts and maker support organizations. Some are free to the public, some have members and others may be private to their community like with school makerspaces. Get connected and find a place to grow your skills, build projects and where you can collaborate with other makers and creatives.
 
 ---
 
